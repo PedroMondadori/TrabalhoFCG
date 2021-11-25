@@ -1,7 +1,7 @@
 Alunos:
 Alexandre de Rosso Crestani 00312980
 Airton Junior               00275852
-Pedro Lago Mondadori        
+Pedro Lago Mondadori        00301506
 
 Este é o nosso trabalho final da cadeira de Fundamentos de Computação Gráfica, ministrada pelo professor Eduardo Gastal.
 
